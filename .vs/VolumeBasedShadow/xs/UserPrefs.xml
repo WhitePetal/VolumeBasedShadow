@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4EE2AE73-C294-A1A1-683E-BEA50EB92E85}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VolumeBasedShadow/VolumedShadowData.cs">
+    <Files>
+      <File FileName="../../../amongus3d_avatar3.0/Assets/Scripts/PostProcessing/PostProcessProfile.cs" Line="137" Column="35" />
+      <File FileName="Assets/Scripts/VolumeBasedShadow/Node.cs" Line="91" Column="25" />
+      <File FileName="Assets/Scripts/VolumeBasedShadow/Tree.cs" Line="25" Column="58" />
+      <File FileName="Assets/Scripts/VolumeBasedShadow/Editor/TreeBaker.cs" Line="217" Column="108" />
+      <File FileName="Assets/Scripts/VolumeBasedShadow/TreePreviewDrawer.cs" Line="19" Column="14" />
+      <File FileName="Assets/Scripts/VolumeBasedShadow/VolumedShadowData.cs" Line="5" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VolumeBasedShadow" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="VolumeBasedShadow" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                  <Node name="VolumedShadowData.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="64654b10-2781-494e-a65b-d7872ba96899" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
